@@ -16,6 +16,6 @@ Welcome to my Jit Hoob. I wonder what folks want to know when they stumble here?
 * Chrono Trigger is the best video game ever made
 
 [Twitter](https://twitter.com/mfschweitzer)\
-[LinkedIn](https://www.linkedin.com/in/mfschweitzer)\
+[LinkedIn](https://www.linkedin.com/in/mfschweitzer)
 
 ![bitmoji](https://sdk.bitmoji.com/render/panel/0465c53a-92cd-40a9-b676-4bad8faccbca-276dc6a6-a25e-4dfd-8f98-a50a2566e48d-v1.png?transparent=1&palette=1)
