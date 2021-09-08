@@ -13,7 +13,7 @@ Welcome to my Jit Hoob!
 * Husband and dad to an autistic baby girl and sphynx cat
 * Built a C++/Lua game engine in the early iOS days called Hope Engine to power [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800)
 * Last few learning journeys were Swift, Pulumi, how app backends work
-* Chrono Trigger is the best video game ever made
+* Love Chrono Trigger
 
 ## Tech writing
 * The Unity game engine has a package called Addressables. I wrote a manual for it after banging my head against the wall. [Addressables Training Manual](https://github.com/mikerochip/addressables-training-manual)
