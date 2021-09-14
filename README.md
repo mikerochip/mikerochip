@@ -3,14 +3,15 @@
 Welcome to my Jit Hoob!
 
 ## At work...
-* Co-founder, Principal Engineer at [Second Dinner](https://seconddinner.com/)
-* Before that, worked at Blizzard for longer than anyone should stay at one job
-* I focus on business value and team productivity. Lots of effort towards glue work, maintainability, understandability, and DX.
+* Engineer, focused on platform, tools, DX & UX
+* Background in turn-based gameplay (game rules, business logic) and game UI
+* Previously Second Dinner, Blizzard Entertainment
+* I focus on business value and team productivity. Lots of effort towards glue work, maintainability, understandability.
 * I work responsibly so I can be irresponsible on personal projects
-* Work tech lately is Unity, C#, .NET, and AWS serverless
+* Tech lately has been Unity, C#, .NET, and AWS serverless (Lambda, Dynamo, API Gateway, SNS, SQS, others)
 
 ## At home...
-* Husband and dad to an autistic baby girl and sphynx cat
+* Husband and dad to a lovely wife, an autistic baby girl, and a sphynx cat
 * Built a C++/Lua game engine in the early iOS days called Hope Engine to power [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800)
 * Last few learning journeys were Swift, Pulumi, how app backends work
 * Love Chrono Trigger
