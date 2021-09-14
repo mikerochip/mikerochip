@@ -1,4 +1,4 @@
-# Sup foolios 👋
+# Sup Everyone 👋
 
 Welcome to my Jit Hoob!
 
