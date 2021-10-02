@@ -3,17 +3,17 @@
 Welcome to my Jit Hoob!
 
 ## At work...
-* Engineer, focused on platform, tools, DX & UX
-* Background in turn-based gameplay (game rules, business logic) and game UI
+* Engineer focused on platform, tools, DX & UX
+* Background in game industry, mostly turn-based gameplay and UI
 * Previously Second Dinner, Blizzard Entertainment
-* I focus on business value and team productivity. Lots of effort towards glue work, maintainability, understandability.
+* Focused on business value and team productivity. Lots of effort towards glue work, maintainability, understandability.
 * I work responsibly so I can be irresponsible on personal projects
 * Tech lately has been Unity, C#, .NET, and AWS serverless (Lambda, Dynamo, API Gateway, SNS, SQS, others)
 
 ## At home...
 * Husband and dad to a lovely wife, an autistic baby girl, and a sphynx cat
 * Built a C++/Lua game engine in the early iOS days called Hope Engine to power [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800)
-* Last few learning journeys were Swift, Pulumi, how app backends work
+* Last few learning journeys: Unreal, Swift, Pulumi, how app backends work
 * Love Chrono Trigger
 
 ## Tech writing
