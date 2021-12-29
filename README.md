@@ -2,24 +2,20 @@
 
 Welcome to my Jit Hoob!
 
-## At work...
-* Previously Second Dinner, Blizzard Entertainment. In the game industry my whole career so far!
-* Engineer focused on platform, tools, DX & UX, business value, and team productivity
-* I optimize for life, as opposed to time and memory: lot of effort towards glue work, learnability, maintainability
-* I work responsibly so I can be irresponsible on side projects
-* Tech is Unreal, C++. Huge stints in Unity, C#, .NET, AWS serverless (Lambda, Dynamo, API Gateway, SNS, SQS, others).
-
-## At home...
-* Husband and dad to a lovely wife, an autistic baby girl, and a sphynx cat
+## Work and project highlights
+* In the game industry my whole career so far!
+* Currently focused on platform, tools, DX & UX. Formerly gameplay and UI engineer.
+* I optimize code for life, as opposed to time or space. Most of the effort goes toward learnability and maintainability.
+* I focus on business value and team productivity at work so I can tinker on side projects
+* Most professional experience is in Unity, C#, .NET, AWS (Lambda, Dynamo, API Gateway, SNS, SQS, others)
+* Latest learning journeys have been Unreal, C++11, GCP, Swift, TeamCity, etc... combination of filling gaps and curiosity!
 * Built a C++/Lua game engine in the early iOS days called Hope Engine to power [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800)
-* Last few learning journeys: Unreal, C++11, Swift, Pulumi, how app backends work
-* Love Chrono Trigger
 
 ## Tech writing
 * The Unity game engine has a package called Addressables. I wrote a manual for it after banging my head against the wall. [Addressables Training Manual](https://github.com/mikerochip/addressables-training-manual)
 * I wrote an article on getting multiple GitHub accounts to work on Mac after Google searching led me down dark paths. [My multi-account GitHub workflow on Mac](https://medium.com/macoclock/my-multi-account-github-workflow-on-mac-133708a93544)
 
-## Links
+## Social links
 
 [Twitter](https://twitter.com/mfschweitzer)\
 [LinkedIn](https://www.linkedin.com/in/mfschweitzer)
