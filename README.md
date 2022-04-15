@@ -4,11 +4,11 @@ Welcome to my Jit Hoob!
 
 ## Work and project highlights
 * In the game industry my whole career so far!
-* Currently focused on platform, tools, DX & UX. Formerly gameplay and UI engineer.
+* Currently focused on platform, tools, DX & UX. Used to focus on gameplay and UI.
 * I optimize code for life, as opposed to time or space. Most of the effort goes toward learnability and maintainability.
 * I focus on business value and team productivity at work so I can tinker on side projects
-* Most professional experience is in Unity, C#, .NET, AWS (Lambda, Dynamo, API Gateway, SNS, SQS, others)
-* Latest learning journeys have been Unreal, C++11, GCP, Swift, TeamCity, etc... combination of filling gaps and curiosity!
+* Most professional experience is in Unity, C#, .NET, AWS
+* A few things I've been learning most recently: Unreal, GCP, CMake + Conan, TeamCity, Swift
 * Built a C++/Lua game engine in the early iOS days called Hope Engine to power [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800)
 
 ## Tech writing
