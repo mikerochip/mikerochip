@@ -4,7 +4,7 @@ Welcome to my Jit Hoob!
 
 ## Stuff you might find useful
 * If you're a Unity dev, any of my repos that start with ```unity-```
-* Unity has a downloadable asset management system called Addressables. I [wrote a manual](https://github.com/mikerochip/addressables-training-manual) for it after learning it proved difficult.
+* Unity has a downloadable asset management system called Addressables. I [wrote a manual](https://github.com/mikerochip/addressables-training-manual) for it.
 * I [wrote an article](https://medium.com/macoclock/my-multi-account-github-workflow-on-mac-133708a93544) on getting multiple GitHub accounts to work on Mac after Google searching led to disappointment.
 
 ## My work and project highlights
