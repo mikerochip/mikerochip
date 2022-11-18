@@ -3,7 +3,7 @@
 Welcome to my Jit Hoob!
 
 ## Stuff you might find useful
-* If you're a Unity dev, any of my repos that start with ```unity-```
+* If you're a Unity dev, any of my repos that start with [unity-](https://github.com/mikerochip?tab=repositories&q=unity-&type=&language=&sort=)
 * Unity has a downloadable asset management system called Addressables. I wrote a [manual](https://github.com/mikerochip/addressables-training-manual) for it.
 * I wrote an [article](https://medium.com/macoclock/my-multi-account-github-workflow-on-mac-133708a93544) on getting multiple GitHub accounts to work on Mac. But you should probably just use https and [GCM](https://github.com/GitCredentialManager/git-credential-manager/blob/release/docs/install.md).
 
