@@ -7,7 +7,7 @@ Welcome to my Jit Hoob!
 * Unity has a downloadable asset management system called Addressables. I wrote a [manual](https://github.com/mikerochip/addressables-training-manual) for it.
 * Any of my repos with [-training-manual](https://github.com/mikerochip?tab=repositories&q=-training-manual) may help you
 * I wrote an [article](https://medium.com/macoclock/my-multi-account-github-workflow-on-mac-133708a93544) on getting multiple GitHub accounts to work on Mac with ssh.
-  * BUT you should probably just use https, [GCM](https://github.com/GitCredentialManager/git-credential-manager/blob/release/docs/install.md), and [`[includeIf "gitdir:~/path/to/.config"]`](https://git-scm.com/docs/git-config)
+  * BUT you should probably just use https, [GCM](https://github.com/GitCredentialManager/git-credential-manager/blob/release/docs/install.md), and `[includeIf "gitdir:~/path/to/.config"]`
 
 ## Some highlights
 * In the game industry my whole career so far!
