@@ -1,13 +1,9 @@
-# Sup Everyone 👋
+# Welcome to my Jit Hoob 👋
 
-Welcome to my Jit Hoob!
+I'm a generalist engineer in the video game industry. My claims to fame are working on World of Warcraft (UI), Hearthstone (Gameplay), and Marvel Snap (Everything).
 
-I'm a generalist engineer in the video game industry.
+I'm proud of a few things in my career. I was the technical co-founder of Second Dinner and built the core tech and backend for Marvel Snap without prior experience building a backend from nothing. My tech choices led to an [essentially problem-free launch](https://aws.amazon.com/solutions/case-studies/second-dinner-nuverse-case-study/), which tells me that I can do things right, sometimes. I also built a custom C++/Lua game engine to power my self-published iOS game [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800).
 
-I love coding and learning new tech. When I write code, I try to make it easy to read and maintain so it can stand the test of time. My mantra is to maximize the joy and minimize the stress of working with my code. I include a healthy dose of pragmatism since most of my professional work has been deployed directly to players.
+I try to make code easy to learn and maintain, and that usually means thinking deeply about details and outcomes. I include healthy doses of pragmatism in order to get things done.
 
-My claims to fame are working on World of Warcraft, being one of the earliest engineers on Hearthstone, and being a co-founder of Second Dinner. I built the core tech and backend for Marvel Snap, without prior experience shipping backend infrastructure. This led to an [essentially problem-free launch](https://aws.amazon.com/solutions/case-studies/second-dinner-nuverse-case-study/)
-
-I'm also proud of building my C++/Lua game engine from scratch to power my self-published iOS game [Mecha Drop](https://apps.apple.com/us/app/mecha-drop/id415230800)
-
-Checkout some of my pinned repositories for useful Unity utilities.
+Checkout some of my pinned repositories for useful game dev utilities.
