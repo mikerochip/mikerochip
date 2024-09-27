@@ -1,6 +1,6 @@
 # Welcome to my Jit Hoob 👋
 
-You're probably here to learn more about my tech schtuff. Sup! My name's Mike.
+Sup! My name's Mike. You're probably here to learn more about my tech schtuff.
 
 I'm a generalist engineer in video games. My claims to fame are working on World of Warcraft (UI), Hearthstone (Gameplay), and Marvel Snap (Everything).
 
